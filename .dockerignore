@@ -1,0 +1,19 @@
+# Ignore unnecessary Maven files
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore version control system files
+.git
+.gitignore
+**/.git
+**/.gitignore
+
+# Ignore IDE files
+.idea
+*.iml
+
+# Ignore build and temporary files
+*.log
+*.swp
+.DS_Store
+Thumbs.db
